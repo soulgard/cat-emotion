@@ -1,6 +1,6 @@
-# cat-alan
+# cat-emotion
 
-**Cat Audio Emotion Classification using M5 Neural Network**
+**This project based on the following Cat Audio Emotion Classification Task**
 
 Classification of domestic cat audio files into 10 emotional states: Angry, Defense, Fighting, Happy, HuntingMind, Mating, MotherCall, Paining, Resting, and Warning.
 
