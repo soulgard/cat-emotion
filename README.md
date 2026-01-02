@@ -199,7 +199,7 @@ The performance difference is NOT due to different model structures or different
 2. **Use less class:** Considering this paper and employed less sound classes to train the model
 
 ### Good to know:
-This kaggle author employed 500 epochs to train CNN model using the same dataset and reach 45% accuracy.
+This kaggle author employed 500 epochs to train CNN model using the same dataset and reach 45% accuracy, still not good, but better than ours.
 https://www.kaggle.com/code/muqaddasejaz/cat-emotion-classification-eda/notebook
 
 
